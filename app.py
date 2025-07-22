@@ -6,7 +6,7 @@ from datetime import datetime
 # -----------------------
 # CONFIGURATION
 # -----------------------
-st.set_page_config(page_title="Feeding Program Finance Tracker", page_icon="💰", layout="centered")
+st.set_page_config(page_title="Tracker", page_icon="💰", layout="centered")
 DATA_FILE = "finance_data.csv"
 PASSWORD = "Admin123"
 
