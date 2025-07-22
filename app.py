@@ -70,7 +70,7 @@ def delete_selected(indices):
 # -----------------------
 # USER PANEL
 # -----------------------
-st.title("💰 Feeding Program Finance Tracker")
+st.title("💰 Tracker")
 
 st.subheader("Add a Transaction")
 amount = st.number_input("Enter Amount (₹)", min_value=1, step=1)
